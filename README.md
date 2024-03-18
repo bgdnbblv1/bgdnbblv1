@@ -68,7 +68,7 @@ ___
 - [ ] Подышать свежим воздухом  
 
 ## Изображения
-[Вот вам котик](https://s1.1zoom.me/b5050/260/Cats_Kittens_Ginger_452265_3840x2400.jpg)  
+![Вот вам котик](https://s1.1zoom.me/b5050/260/Cats_Kittens_Ginger_452265_3840x2400.jpg)  
 [А вот экскаватор](https://w.forfun.com/fetch/5d/5dde48c4026adaf468bed0b8d2a1019b.jpeg)  
 
 ## Содержание
